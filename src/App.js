@@ -54,15 +54,7 @@ function Nav(){
     </header>
   )
 }
-// function Page(){
-//   return (
-//     <main>
-//       <Routes>
-       
-//       </Routes>
-//     </main>
-//   )
-// }
+
 function App() {
   return (
     <BrowserRouter> 
